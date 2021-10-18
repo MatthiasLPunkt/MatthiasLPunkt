@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthiasLPunkt
 - 👀 I’m interested in programming with python, r and sql for data analysis and data science.
-- 🌱 I’m currently learning how to use python for basic data analysis
+- 🌱 I’m currently learning how to use python for data analysis
 - 💞️ I’m looking to collaborate on: not sure yet :D
 - 📫 How to reach me: tba
 
